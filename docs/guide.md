@@ -1,3 +1,8 @@
+---
+title: Contribution Guide 
+layout: post
+---
+
 ## Contribution Guide 
 
 This project seeks to motivate the community to conduct a Bitcoin IBD and submit their results. Together we can capture a wide range of data and use this to make better decisions around the Bitcoin software. 
