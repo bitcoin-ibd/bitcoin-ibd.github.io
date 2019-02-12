@@ -44,3 +44,14 @@ Currently this is leading to node operators to download a pre-validated bootstra
 
 The Bitcoin community needs to strive to guide Bitcoin to a point where it is useable with the *lowest* common denominator, which is a low power device of similiar specs above. At the current rate of blockchain growth, getting Bitcoin working on low power devices is quickly slipping from our reach.
 
+## Project
+
+This project will be conducted in the following manner:
+
+1) A bitcoin-ibd client will be produced to allow users to easily run an IBD test
+2) IBD data will be collected on a public google form
+3) IBD data will be held in a public google sheet
+4) Project contributors will export data to the github repo, and display it on a public github page
+
+Anyone can assist or contribute to this project. More info will be shown soon. 
+
