@@ -6,7 +6,11 @@ This organisation will be maintained by Bitcoin community members. Please see th
 
 Please [view the form here](https://docs.google.com/forms/d/e/1FAIpQLSeDonDOT0As3Yb0_Byk4QBDT91W4vUtqQIVUaR2uLuPHiWlPQ/viewform).
 
-Please download the Bitcoin Client here. #TODO
+Data will be [publicly collected here](https://docs.google.com/spreadsheets/d/1zv0RcRIkX9IJRnlesnYC9pQIImaAcGEcBjn4sKW3Yng/edit?usp=sharing).
+
+Data will be [exported and held here](https://github.com/bitcoin-ibd/bitcoin-ibd.github.io/tree/master/data)
+
+Please download the [Bitcoin Client here](https://bitcoin.org/en/bitcoin-core/). 
 
 Please use the following config file. #TODO
 
@@ -64,3 +68,6 @@ This project will be conducted in the following manner:
 
 Anyone can assist or contribute to this project. More info will be shown soon. 
 
+******
+
+All information and data in connection with this project is in the public domain. 
