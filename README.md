@@ -2,7 +2,7 @@
 
 Bitcoin-IBD is a community-powered project to collect as much information about the Initial Blockchain Download (IBD) times of Bitcoin across as many devices and networks as possible. This will be useful for community decision-making around the healthiness of the block size. 
 
-This organisation will be maintained by Bitcoin community members. Please see the [Contribution Guide](https://github.com/bitcoin-ibd/bitcoin-ibd.github.io/blob/master/docs/guide.md).
+This organisation will be maintained by Bitcoin community members. 
 
 Please [view the form here](https://docs.google.com/forms/d/e/1FAIpQLSeDonDOT0As3Yb0_Byk4QBDT91W4vUtqQIVUaR2uLuPHiWlPQ/viewform).
 
