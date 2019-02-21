@@ -12,8 +12,6 @@ Data will be [exported and held here](https://github.com/bitcoin-ibd/bitcoin-ibd
 
 Please download the [Bitcoin Client here](https://bitcoin.org/en/bitcoin-core/). 
 
-Please use the following config file. #TODO
-
 ## Bitcoin will fail without decentralisation
 
 Bitcoin is not what any individual, company or state says it is. It is what we all say it is; it is a meme, a shelling point, a majority consensus around money. You add your voice to the chorus of what Bitcoin is when you download the blockchain and run a full node - using the ruleset you choose to run. 
@@ -22,9 +20,9 @@ Bitcoin is an [impenetrable fortress of validation](https://hackernoon.com/bitco
 
 Bitcoin miners do not maintain the shelling point - they simply follow it wherever it goes. If a bitcoin miner submits a block that is invalid and not relayed by the economic majority of nodes, then it will not be propogated and they have wasted their time and resources. Put simply, miners secure transactions *that have been added to the blockchain*, whilst nodes decide what transactions *should be added to the blockchain*. **Miners face backwards, nodes face forwards.** 
 
-If Bitcoin is to scale *and still be decentralised* to the world, then we need to address the IBD - the biggest burden on node operators. If 4bn people want to use Bitcoin in a few decades time, then it is preposterous to think that Bitcoin's primary line of defence against attacks, node operators, will only number in the 10's or 100's of thousands. Billions of people should be able to run nodes. 
+If Bitcoin is to scale *and still be decentralised* to the world, then we need to address the IBD - the biggest burden on node operators. If 4bn people want to use Bitcoin in a few decades time, then it is preposterous to think that Bitcoin's primary line of defence against attacks, node operators, will only number in the 10's or 100's of thousands. Millions of people should be able to run nodes. 
 
-To get the first billion of nodes online, the bitcoin community needs to guide Bitcoin to a point where low-power, low-cost devices can safely maintain a Bitcoin full node. Pruned nodes and even [Nuetrino](https://github.com/lightninglabs/neutrino) is not a solution since these nodes cannot participate in seeding the blockchain to new nodes. 
+To get the first million nodes online, the bitcoin community needs to guide Bitcoin to a point where low-power, low-cost devices can safely maintain a Bitcoin full node. Pruned nodes and even [Nuetrino](https://github.com/lightninglabs/neutrino) is not a solution since these nodes cannot participate in seeding the blockchain to new nodes. 
 
 The blockchain is a product of waste that is a consequence of a fully audited supply and a validated transactional ledger. Every byte stored on it will be carried around forever by nodes. We must use the block space carefully and avoid wasteful transactions, especially careless uses of OP_RETURN and other data-insertion methods. 
 
